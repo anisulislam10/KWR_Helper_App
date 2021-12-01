@@ -37,6 +37,7 @@ public class LoginActivity extends AppCompatActivity {
         tvRegisterHere = findViewById(R.id.tvRegisterHere);
         btnLogin = findViewById(R.id.btnLogin);
 
+
         mAuth = FirebaseAuth.getInstance();
 
         btnLogin.setOnClickListener(view -> {

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView" />
+    <item android:id="@+id/Item1"
+    android:title="@string/history"
+app:showAsAction="never"
+    />
+
+    <item android:id="@+id/Item2"
+        android:title="@string/theme_">
+<menu>
+    <item android:id="@+id/sub_item_theme"
+        android:title="@string/dark_mode" />
+
+
+    <item android:id="@+id/sub_item_theme2"
+        android:title="@string/white_mode">
+
+    </item>
+
+</menu>
+
+</item>
+
+    <item android:id="@+id/Item4"
+        android:title="@string/sign_out_">
+
+    </item>
+
+
+
+
+<item android:id="@+id/search1"
+android:icon="@drawable/ic_baseline_search_24"
+    app:showAsAction="collapseActionView|ifRoom"
+    app:actionViewClass="android.widget.SearchView"
+    android:title="TODO" />
+</menu>

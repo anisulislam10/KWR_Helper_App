@@ -5,11 +5,13 @@
       <map>
         <entry key="..\:/self studies/KWR_Helper_App/app/src/main/res/drawable/ic_baseline_analytics.xml" value="0.22447916666666667" />
         <entry key="..\:/self studies/KWR_Helper_App/app/src/main/res/drawable/ic_baseline_policy_24.xml" value="0.22447916666666667" />
+        <entry key="..\:/self studies/KWR_Helper_App/app/src/main/res/drawable/ic_search.xml" value="0.22447916666666667" />
         <entry key="..\:/self studies/KWR_Helper_App/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/self studies/KWR_Helper_App/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/self studies/KWR_Helper_App/app/src/main/res/layout/activity_register.xml" value="0.22" />
         <entry key="..\:/self studies/KWR_Helper_App/app/src/main/res/layout/activity_sign_up.xml" value="0.20833333333333334" />
         <entry key="..\:/self studies/KWR_Helper_App/app/src/main/res/layout/activity_splash_screen.xml" value="0.20833333333333334" />
+        <entry key="..\:/self studies/KWR_Helper_App/app/src/main/res/menu/menu_three_dots.xml" value="0.33" />
       </map>
     </option>
   </component>

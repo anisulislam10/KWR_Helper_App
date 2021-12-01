@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">KWR_Helper_App</string>
+    <string name="app_name">KWR helper</string>
+
+    <string name="History">history</string>
+    <string name="settings">Settings</string>
+    <string name="theme_">Theme</string>
+    <string name="history">History</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="white_mode">White Mode</string>
+    <string name="sign_out_">Sign out</string>
 </resources>
